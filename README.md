@@ -2,7 +2,6 @@
 
 A modern **Movie Search Application** built using **React** and **Tailwind CSS** that allows users to search movies, view detailed information, and manage favorites.
 
----
 
 ## Features
 
@@ -12,7 +11,6 @@ A modern **Movie Search Application** built using **React** and **Tailwind CSS**
 * Pagination for better browsing
 * Fast and responsive UI
 
----
 
 ## Tech Stack
 
@@ -22,7 +20,6 @@ A modern **Movie Search Application** built using **React** and **Tailwind CSS**
 * **API:** OMDB API
 * **Routing:** React Router
 
----
 
 ## Project Structure
 
@@ -36,13 +33,10 @@ src/
 └── main.jsx         # Entry point
 
 
----
-
 ## Live Demo
 
 https://movix-browserapp.netlify.app/
 
----
 
 ## Future Enhancements
 
@@ -51,17 +45,13 @@ https://movix-browserapp.netlify.app/
 * Improved UI/UX
 * Advanced filters (year, genre)
 
----
 
 ## Author
 
 **Bhagya Sree**
 
----
 
 ## Acknowledgements
 
 * Movie data provided by OMDB API
 * Built as part of a React learning project
-
----
