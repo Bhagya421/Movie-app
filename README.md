@@ -1,4 +1,4 @@
-** Movix App**
+**Movix-app**
 
 A modern **Movie Search Application** built using **React** and **Tailwind CSS** that allows users to search movies, view detailed information, and manage favorites.
 
