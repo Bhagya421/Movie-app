@@ -1,16 +1,67 @@
-# React + Vite
+** Movix App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Movie Search Application** built using **React** and **Tailwind CSS** that allows users to search movies, view detailed information, and manage favorites.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* Discover movies through real-time API search
+* Explore detailed movie information including posters, titles, and summaries
+* Easily add or remove movies from your favorites list
+* Pagination for better browsing
+* Fast and responsive UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Frontend:** React.js
+* **Styling:** Tailwind CSS
+* **State Management:** Context API + Reducer
+* **API:** OMDB API
+* **Routing:** React Router
+
+---
+
+## Project Structure
+
+src/
+│
+├── components/      # Reusable UI components
+├── context/         # Global state management
+├── pages/           # Main pages (routes)
+├── services/        # API handling
+├── App.jsx          # Main app component
+└── main.jsx         # Entry point
+
+
+---
+
+## Live Demo
+
+https://movix-browserapp.netlify.app/
+
+---
+
+## Future Enhancements
+
+* Trending movies section
+* Movies section based on genres
+* Improved UI/UX
+* Advanced filters (year, genre)
+
+---
+
+## Author
+
+**Bhagya Sree**
+
+---
+
+## Acknowledgements
+
+* Movie data provided by OMDB API
+* Built as part of a React learning project
+
+---
