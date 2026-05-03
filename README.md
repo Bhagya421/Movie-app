@@ -21,18 +21,6 @@ A modern **Movie Search Application** built using **React** and **Tailwind CSS**
 * **Routing:** React Router
 
 
-## Project Structure
-
-src/
-│
-├── components/      # Reusable UI components
-├── context/         # Global state management
-├── pages/           # Main pages (routes)
-├── services/        # API handling
-├── App.jsx          # Main app component
-└── main.jsx         # Entry point
-
-
 ## Live Demo
 
 https://movix-browserapp.netlify.app/
